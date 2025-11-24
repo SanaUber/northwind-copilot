@@ -1,0 +1,7 @@
+dspy-ai==2.4.9
+langgraph==0.1.0
+langchain-community
+rank-bm25
+rich
+click
+pydantic
